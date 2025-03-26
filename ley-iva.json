@@ -1,0 +1,104 @@
+{
+    "IVA_Categories": [
+      {
+        "IVA": "0%",
+        "categories": [
+          "Medicamentos",
+          "Vacunas",
+          "Sueros",
+          "Plasmas",
+          "Principios activos",
+          "Productos del reino vegetal en su estado natural considerados alimentos para el consumo humano",
+          "Semillas certificadas en general",
+          "Material base para la reproducción animal",
+          "Insumos biológicos para el sector agrícola y pecuario",
+          "Especies avícolas",
+          "Huevos fértiles de gallina",
+          "Pollitos, pollitas, pollonas para la cría, reproducción y producción de carne de pollo",
+          "Huevos de gallina",
+          "Arroz",
+          "Harina",
+          "Pan",
+          "Pastas",
+          "Huevos",
+          "Sal",
+          "Azúcar",
+          "Café",
+          "Mayonesa",
+          "Mortadela",
+          "Atún enlatado",
+          "Sardinas",
+          "Leche en sus diferentes presentaciones",
+          "Queso blanco duro",
+          "Margarina",
+          "Mantequilla",
+          "Carne de pollo",
+          "Fertilizantes",
+          "Gas natural utilizado en la fabricación de fertilizantes",
+          "Combustibles derivados de hidrocarburos",
+          "Aditivos para gasolina",
+          "Sillas de ruedas",
+          "Marcapasos",
+          "Prótesis",
+          "Órganos artificiales",
+          "Diarios",
+          "Periódicos",
+          "Libros",
+          "Revistas",
+          "Materiales para la industria editorial",
+          "Servicios de transporte terrestre nacional de pasajeros",
+          "Servicios de transporte acuático nacional de pasajeros",
+          "Servicios educativos de instituciones registradas",
+          "Suministro de agua residencial",
+          "Suministro de electricidad residencial",
+          "Suministro de gas residencial",
+          "Servicios médicos",
+          "Servicios hospitalarios",
+          "Servicios odontológicos",
+          "Telefonía pública",
+          "Aseo urbano residencial"
+        ]
+      },
+      {
+        "IVA": "8%",
+        "categories": [
+          "Animales vivos destinados al matadero",
+          "Ganado para cría (bovino, caprino, ovino, porcino)",
+          "Carnes en estado natural",
+          "Carnes refrigeradas",
+          "Carnes congeladas",
+          "Carnes saladas",
+          "Carnes en salmuera",
+          "Mantecas",
+          "Aceites vegetales utilizados exclusivamente en la elaboración de aceites comestibles"
+        ]
+      },
+      {
+        "IVA": "16%",
+        "categories": [
+          "Productos de consumo general",
+          "Ropa",
+          "Electrodomésticos",
+          "Tecnología",
+          "Muebles",
+          "Servicios no especificados en exenciones o con alícuota reducida"
+        ]
+      },
+      {
+        "IVA": "26%",
+        "categories": [
+          "Vehículos de lujo",
+          "Motocicletas de más de 500cc",
+          "Máquinas de juego activadas con monedas o fichas",
+          "Helicópteros",
+          "Aviones recreativos",
+          "Aeronaves deportivas",
+          "Toros de lidia",
+          "Caballos de paso",
+          "Caviar",
+          "Joyas con piedras preciosas superiores a $500"
+        ]
+      }
+    ]
+  }
+  
